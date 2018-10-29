@@ -8,7 +8,7 @@ namespace HelloWorldVS
         static void Main(string[] args)
         {
             Calculator cal = new Calculator();
-            //uhhjkjlkjkl
+            //print hello world
             Console.WriteLine("Hello World!");
         }
     }
